@@ -20,3 +20,7 @@ Clone this repo
 ```zsh
     npm start or yarn start
 ```
+
+#### Screenshot
+
+![tables](./src/Screenshots/tables.png)
